@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Destiny
+
+  Created by Vadym Dmytriiev on 2/2/18.
+  Copyright © 2018 Vadym Dmytriiev. All rights reserved.
+*/
+"restart" = "Для того щоб змінити мову, необхідно перевідкрити програму";
+"restartTitle" = "Необхідно перевідкрити програму";
+"cancel" = "Відміна";
+"close" = "Закрити";
+

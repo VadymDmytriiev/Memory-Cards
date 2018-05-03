@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Destiny
+
+  Created by Vadym Dmytriiev on 2/2/18.
+  Copyright © 2018 Vadym Dmytriiev. All rights reserved.
+*/
+"restart" = "In order to change the language, the App must be closed and reopen by you! ";
+"restartTitle" = "App restart required";
+"cancel" = "Cancel";
+"close" = "Close Now";
